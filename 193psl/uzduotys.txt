@@ -1,0 +1,11 @@
+
+2. Parenkite masyvą, kuriame būtų galima saugoti iki 24 vėjo reikšmių. Sukurkite duomenų failą ir funkciją masyvui iš tekstinio failo užpildyti.
+3. Sudarykite duomenų failą, kuriame būtų saugoma 20 rūšių vaistažolių duomenys: pava- dinimas (gali būti keli žodžiai) ir kiekis kilogramais. Parašykite funkciją, kuri užpildytų masyvą tekstinio failo duomenimis.
+4. Sudarykite duomenų failą, kuriame būtų informacija apie 10 automobilio detalių: jų pavadinimas ir kaina. Parašykite funkciją, kuri užpildytų struktūrų masyvą parengtais duomenimis.
+5. Parenkite 10-12 trečiojo laipsnio daugianarių koeficientų failą. Sudarykite funkciją, kuri
+šiais duomenimis užpildytų struktūrų masyvą.
+6. Parenkite tekstinį failą, kuriame būtų 12-15 knygų duomenys: knygos pavadinimas, autorius, kaina ir kiekis. Sudarykite funkciją duomenims perskaityti ir įrašyti į struktūrų
+masyvą.
+7. Parenkite tekstinį failą, kuriame būtų 12-15 muzikos mokyklos mokinių duomenys: mokinio vardas, pavardė, instrumentas ir klasė. Sudarykite funkciją, kuri užpildytų struktūrų masyvą
+tekstinio failo duomenimis.
+
