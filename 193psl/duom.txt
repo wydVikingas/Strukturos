@@ -1,0 +1,6 @@
+5
+Vilnius-Kaunas 1 10
+Vilnius-Marijampole 1 40
+Kaunas-Panevezys 0 35
+Alytus-Klaipeda 4 20
+Alytus-Amerika 10 15
